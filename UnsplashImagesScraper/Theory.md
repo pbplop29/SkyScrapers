@@ -37,6 +37,14 @@
 > 8) **_def scrapper()_** - actual scraping of the website
 
 > ## Now create a new object of Unsplash class inside main and then call the scraper function to it
+>
+> 1. item = Unsplash("fruit","raw") when creating th object of the given class pass in (search_item, quality)
+>    - raw - best
+>    - full
+>    - regular
+>    - small
+>    - thumb - worst
+> 2. When calling item.scraper(1) function pass in (no_of_pages)
 
 # Questions?
 
