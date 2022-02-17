@@ -1,5 +1,5 @@
 > **_TIP:_** Use Mozilla Firebox because it has really great dev tools.
-> **_CAUTION:_** This is just for educational purposes and personal projects don't try to scrape information if not authorized.
+> **_CAUTION:_** :no_entry: This is just for educational purposes and personal projects don't try to scrape information if not authorized.
 
 # How to proceed?
 
