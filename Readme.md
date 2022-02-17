@@ -30,7 +30,7 @@ Install the dependencies before start.
 npm install <package_name>
 ```
 
-[//]: # "These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen.
+[//]: # "These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax"
 [beautifulsoup]: https://beautiful-soup-4.readthedocs.io/en/latest/#
 [dill]: https://github.com/pbplop29/SkyScrapers
 [selenium]: https://www.selenium.dev/
