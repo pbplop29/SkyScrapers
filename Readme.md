@@ -17,6 +17,8 @@ ScyScrapers uses a number of open source projects to work properly:
 - [BeautifulSoup] - Beautiful Soup is a Python library for pulling data out of HTML and XML files.
 - [Selenium] - Selenium is for automating web applications for testing purposes.
 
+> :exclamation: :exclamation: :exclamation: Please check the markdown files named as **_THEORY_** inside respecetive project directories to get insight about the individual project.
+
 And of course SkyScrapers itself is open source with a [public repository][dill]
 on GitHub.
 
